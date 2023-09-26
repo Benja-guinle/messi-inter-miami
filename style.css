@@ -1,0 +1,34 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dela+Gothic+One&family=Skranji:wght@700&display=swap');
+
+body{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Skranji', cursive;
+    
+
+background-image: url("https://e1.pxfuel.com/desktop-wallpaper/771/234/desktop-wallpaper-inter-miami-cf-inter-miami.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(235, 180, 180);
+
+}
+
+
+h1{
+    background-color: rgba(14, 0, 0, 0.26);
+    z-index: 1;
+}
+
+
+              
+img{
+    transition: 2s, color ;
+    width: 390px;
+    z-index: 0;
+}
+img:hover{
+    transform: scale3d(1.1, 1.1, 0.3);
+}
+              
